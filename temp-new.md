@@ -1,0 +1,1 @@
+This is new test of rebase. because in the previous test I have found some misconcept. I thought the temp branch commit will be erased. but it not earsing any commit rather it just hide the branching history.
