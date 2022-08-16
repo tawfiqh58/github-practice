@@ -10,7 +10,7 @@
 
 ## Live
 
-Here is a live demo : <a href="https://10md.thedeveloperx.com" target="_blank">here</a>
+Here is a live demo : [here](https://10md.thedeveloperx.com/)
 
 ## Site View
 
@@ -54,11 +54,18 @@ cache.
 
 To start server first you need to install all the dependency
 
-### `npm install`
+```
+cd server
+```
+```
+npm install
+```
 
 then run this command to start the server!
 
-### `npm run start`
+```
+npm run start
+```
 
 <br/>
 
@@ -66,17 +73,25 @@ then run this command to start the server!
 
 First go the react app directory by running this command
 
-### `cd client`
+```
+cd client
+```
 
 then for the first time install all the dependency
 
-### `npm install`
+```
+npm install
+```
 
 and then run this command to start your next app
 
-### `npm run build`
+```
+npm run build
+```
 
-### `npm run start`
+```
+npm run start
+```
 
 <br/>
 
