@@ -10,7 +10,7 @@
 
 ## Live
 
-Here is a live demo : [here](https://10md.thedeveloperx.com/)
+Here is a live demo : <a href="https://10md.thedeveloperx.com" target="_blank">here</a>
 
 ## Site View
 
