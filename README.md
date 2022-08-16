@@ -14,8 +14,6 @@ Here is a live demo : [here](https://10md.thedeveloperx.com/)
 
 ## Site View
 
-### Dashboard
-
 <p align="center">
   <img src="./images/desktop-dashboard-ss.png" style="margin-right:12px"/>
   <img src="./images/mobile-dashboard-ss.png" />
